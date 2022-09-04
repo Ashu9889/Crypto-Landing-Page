@@ -10,7 +10,7 @@ and explore various concepts of HTML & CSS . This project helped me to learn abo
 <br/>
 
 ![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-No-red)
-[![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](https://food-restaurant-psi.vercel.app/)
+[![Deployed](https://img.shields.io/badge/Deployed-Yes-green)]
 ![Time](https://img.shields.io/badge/Time%20Taken-1.5hrs-green)
 
 ## Tech Stack:
