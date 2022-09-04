@@ -3,7 +3,7 @@
 <br/>
 
 This project is Crypto Home Page website made in HTML & CSS from scratch , which helped me to learn
-and explore various concepts of HTML & CSS . This project helped me to learn about flex Box and its properties.
+and explore various concepts of HTML & CSS . This project helped me to learn about box-sizing, background images and its various properties.
 
 > ## [Ashutosh Singh]()
 
@@ -26,9 +26,10 @@ and explore various concepts of HTML & CSS . This project helped me to learn abo
 
 ## My Learnings
 
-- Learned about how to write HTML in well structred manner.
-- Explored about various css properties like display, position , z-index .
-- Learned the use of selectors.
+- Explored about Box-sizing.
+- Learned about positions, z-index.
+- Learned about Background Images and its properties.
+- Learned about font-weight and various font sizes.
 
 ## How the website looks like
 
